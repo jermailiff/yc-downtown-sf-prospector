@@ -1,0 +1,11 @@
+{
+  "name": "yc-downtown-sf-prospector",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Find downtown San Francisco YC company prospects from public listings",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node scripts/prospect.js",
+    "test": "node --test"
+  }
+}
